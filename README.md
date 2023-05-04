@@ -23,13 +23,13 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **Content Creation, Building an Online Agency & Self-Improvement.**
+- 🔭 Currently working on **Content Creation, Building an Online Agency & Self-Improvement.**
 
-- 🌱 I’m currently learning **FullStack Web Development & Building Projects.**
+- 📚 I’m currently learning **FullStack Web Development & Building Projects.**
 
-- 📝 I regularly Tweet on [Twitter](https://twitter.com/dakshjoshii), Let's Connect!
+- 👨🏻‍💻 I regularly Tweet on [Twitter](https://twitter.com/dakshjoshii), Let's Connect!
 
-- 📫 Feel free to reach me out **dakshcodes@gmail.com**
+- ✉️ Feel free to reach me out **dakshcodes@gmail.com**
 
 - 🌺 I create content creation at: [Instagram (CodingHashira)](https://instagram.com/codinghashira).
 <!--Intro end-->
